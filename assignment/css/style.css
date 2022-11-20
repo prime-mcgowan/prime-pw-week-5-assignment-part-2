@@ -1,0 +1,48 @@
+/**Start of Body Section**/
+body {
+    background-image:url("../img/record.png");
+    background-repeat: repeat;
+    margin: 0;
+}
+/**Start of Body Section**/
+
+
+/**Start of Header Section**/
+header {
+    background-color: lime;
+    color: whitesmoke; 
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+h1 , h2 {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h2 span {
+    color:cornflowerblue;
+    font-style:italic;
+    padding-right: 15px;
+    text-transform:uppercase;  
+}
+/**End of Header Section**/
+
+
+/**Start of Main Section**/
+main {
+    background-color: lightgray;
+    font-weight: bold;
+    padding-bottom: 1em; 
+}
+
+p {
+   margin-bottom: -1px;
+   margin-left: 10px;
+   padding-top: 20px;  
+}
+/**End of Main Section**/
